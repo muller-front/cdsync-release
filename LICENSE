@@ -1,0 +1,41 @@
+CDSync — Proprietary License
+
+Copyright (c) 2025-2026 muller-front. All rights reserved.
+
+NOTICE:
+This software, including its source code, compiled binaries, documentation,
+associated configuration tools (the "Software"), is PROPRIETARY and is made
+available only to parties that have obtained a valid license issued by the
+copyright holder.
+
+NO REDISTRIBUTION. Redistribution of this Software, in source or binary form,
+via any medium, is strictly prohibited without prior written permission from the
+copyright holder. This includes, but is not limited to:
+
+  * Including the Software or any part of it in publicly accessible repositories,
+    package archives, mirrors, torrents, or distribution channels.
+  * Selling, sublicensing, renting, leasing, or otherwise transferring access to
+    the Software to third parties.
+  * Reverse engineering, decompiling, or disassembling the compiled binary for
+    the purpose of redistributing or repackaging the Software.
+
+NO UNAUTHORIZED USE. Running this Software on a machine, or on behalf of a
+Google Drive account, that is not the licensed account identified in the
+license file (license.lic) issued to the licensee constitutes UNAUTHORIZED USE.
+The Software performs online verification against Google Drive APIs to enforce
+this binding.
+
+LICENSING. The copyright holder issues per-account licenses. Each license is
+cryptographically signed (Ed25519) and valid for the email(s) listed in it.
+Contact the copyright holder for licensing terms, refunds, migrations, or
+support.
+
+NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+SPDX-License-Identifier: LicenseRef-Proprietary
